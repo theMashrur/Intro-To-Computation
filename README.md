@@ -7,3 +7,5 @@ A collection of code from my first year Introduction to Computation course
   <li>Numpy</li>
   <li>Sympy</li>
 </ul>
+
+<i>Autograder code is courtesy of Imperial College London</i>
